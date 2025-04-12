@@ -1,7 +1,9 @@
 // ==UserScript==
 // @name         Universal Age Auto-Fill (Ultra Optimized with Dynamic Language Caching)
-// @namespace    https://github.com/RePacked
+// @namespace    https://github.com/RePacked/Universal-Age-Auto-Fill
 // @version      1.0
+// @updateURL    https://github.com/RePacked/Universal-Age-Auto-Fill/raw/refs/heads/main/universal-age-auto-fill.user.js
+// @downloadURL  https://github.com/RePacked/Universal-Age-Auto-Fill/raw/refs/heads/main/universal-age-auto-fill.user.js
 // @description  Autofills age fields with ultra-optimized performance and dynamic language caching.
 // @author       RePacked
 // @match        *://*/*
