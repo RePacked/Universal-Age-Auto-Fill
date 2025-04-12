@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Universal Age Auto-Fill (Ultra Optimized with Dynamic Language Caching)
 // @namespace    https://github.com/RePacked
-// @version      2.0
+// @version      1.0
 // @description  Autofills age fields with ultra-optimized performance and dynamic language caching.
 // @author       RePacked
 // @match        *://*/*
@@ -12,9 +12,9 @@
     "use strict";
 
     // Default date-of-birth values
-    const DEFAULT_YEAR = "2001";
-    const DEFAULT_MONTH = "3";   // January-December (1-12)
-    const DEFAULT_DAY = "29";
+    const DEFAULT_YEAR = "1990";
+    const DEFAULT_MONTH = "1";   // January-December (1-12)
+    const DEFAULT_DAY = "1";
 
     // Constants for faster access
     const LOWER_YEAR_KEYWORDS = ["year", "dobyear", "birthyear", "age_year"];
