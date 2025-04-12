@@ -1,7 +1,6 @@
 # Universal Age Auto-Fill
 
-Autofills annoying age verification fields with your birthday.
-
+Autofills annoying age verification fields (e.g. Steam) with your birthday.
 
 ## Install
 **Install with [this link](https://github.com/RePacked/Universal-Age-Auto-Fill/raw/refs/heads/main/universal-age-auto-fill.user.js)**
