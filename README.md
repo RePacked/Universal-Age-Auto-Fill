@@ -8,7 +8,7 @@ Autofills annoying age verification fields (e.g. Steam) with your birthday.
 (requires a userscript manager like [Violentmonkey](https://violentmonkey.github.io/))
 
 ## Configure
-Edit the following three lines to the your birthday:
+Edit the following three lines to your birthday:
 
     const DEFAULT_YEAR = "1990";
     const DEFAULT_MONTH = "1";   // January-December (1-12)
